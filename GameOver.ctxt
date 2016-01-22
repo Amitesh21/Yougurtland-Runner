@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameOver\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GameOver()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=gameFacade
+comment3.target=void\ setGameMenuFacade(GameMenuFacade)
+comment4.params=scoreObjects
+comment4.target=void\ showScore(java.util.HashMap)
+numComments=5

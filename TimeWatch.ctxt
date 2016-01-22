@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TimeWatch
+comment0.text=\n\ Write\ a\ description\ of\ class\ TimeWatch\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TimeWatch\ start()
+comment2.params=
+comment2.target=TimeWatch()
+comment3.params=
+comment3.target=TimeWatch\ reset()
+comment4.params=
+comment4.target=long\ time()
+comment5.params=unit
+comment5.target=long\ time(java.util.concurrent.TimeUnit)
+numComments=6

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ScoreSubject
+comment1.params=scoreElement
+comment1.target=void\ notifyObservers(java.lang.String)
+numComments=2

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameMenuFacade
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameMenuFaced\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=startscreen\ mainGame
+comment1.target=GameMenuFacade(StartScreen,\ Background)
+comment2.params=
+comment2.target=GameMenuFacade()
+comment3.params=
+comment3.target=void\ pauseGame()
+comment4.params=
+comment4.target=void\ resumeGame()
+comment5.params=
+comment5.target=void\ replayGame()
+comment6.params=
+comment6.target=void\ startGame()
+comment7.params=startscreen
+comment7.target=void\ setStartScreen(StartScreen)
+comment8.params=maingame
+comment8.target=void\ setMainGame(Background)
+comment9.params=
+comment9.target=void\ stopGame()
+numComments=10

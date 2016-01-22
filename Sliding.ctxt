@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sliding
+comment1.params=
+comment1.target=Sliding()
+comment2.params=hero
+comment2.target=void\ movement(Hero)
+numComments=3

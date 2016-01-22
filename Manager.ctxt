@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=
+comment1.target=Manager()
+comment2.params=
+comment2.target=java.util.List\ getRandomCollectible()
+comment3.params=world
+comment3.target=ObstacleWrapper\ getRandomObstacle(greenfoot.World)
+numComments=4

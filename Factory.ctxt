@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Factory
+comment1.params=obstacleType
+comment1.target=Obstacle\ createObstacle(java.lang.String)
+comment2.params=collectibleType
+comment2.target=Collectible\ createCollectible(java.lang.String)
+numComments=3

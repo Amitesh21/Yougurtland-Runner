@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ScoreObserver
+comment1.params=scoreElement
+comment1.target=void\ update(java.lang.String)
+numComments=2

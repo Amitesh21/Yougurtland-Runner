@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ObstacleBall
+comment1.params=
+comment1.target=ObstacleBall()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ObstacleBall\n
+comment2.params=speed
+comment2.target=void\ updateSpeed(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=distance
+comment4.target=void\ move(int)
+comment5.params=
+comment5.target=void\ up()
+comment6.params=
+comment6.target=void\ down()
+numComments=7

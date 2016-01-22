@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CollectibleWrapper
+comment1.params=x
+comment1.target=void\ setX(int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=y
+comment3.target=void\ setY(int)
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=collectible
+comment5.target=void\ setCollectible(Collectible)
+comment6.params=
+comment6.target=Collectible\ getCollectible()
+numComments=7

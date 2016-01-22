@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Collectible
+comment1.params=speed
+comment1.target=void\ updateSpeed(int)
+comment2.params=
+comment2.target=Collectible()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=Collectible\ getRandomCollectible()
+numComments=5

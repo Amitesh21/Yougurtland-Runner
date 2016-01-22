@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ObstacleBrick
+comment0.text=\n\ Write\ a\ description\ of\ class\ ObstacleBrick\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ObstacleBrick()
+comment2.params=speed
+comment2.target=void\ updateSpeed(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
